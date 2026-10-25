@@ -1,0 +1,14 @@
+[
+  {
+    "id": "example-hydration-01",
+    "displayName": "Fictional Hydration Demo — NOT A REAL PRODUCT",
+    "category": "hydration drink",
+    "flavor": "example flavor",
+    "ingredients": [],
+    "allergens": [],
+    "labelSource": null,
+    "verifiedAt": null,
+    "approvedForDisplay": false,
+    "productPageUrl": null
+  }
+]
